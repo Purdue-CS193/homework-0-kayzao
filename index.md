@@ -14,6 +14,9 @@ so heres an image of me in brooklyn. theres the east river behind me, and the sk
 \
 ![thing](https://lh3.googleusercontent.com/pw/AIL4fc_7NzeOIibgTtSs_F2ZENkrw3FZdnY1M7ht3jC-DVwVA2MpvaM7ahxBnWbSiN-n8wPwF15Fm4x5fnL0Rp8n4qsTeYCmu9QGiQO4dN5U1byFssjJFar8YBQTjNcw9HOK8SNh7uh6hXEX2LsfBwGKOiFle8DLTAOqG2NNcFVk4uIXt5Fw_o2sy5CaIE9w_69JmUcKFUHq6P73e6kGpbGdlH_04xjgS9TNXumVNTNi1k1EGD6rTLnH0bTH-bgg3A7ntQcVlN7sFJswLXXTzPKNjSfTu9Pb7g8dRgsj-m1swpLdQJnoyKd4NTvRpeHKkIEJQ8sEWxGFNIFdfGwFd-zPzpcgDHdo1Xrut-5TXorqHR-coANq3BKTpkRV22YgAiTifh3ylUp5KLiPgvhY1cHq9nwbtepCr09Z7aiBUA-dyVxh2v_ms845SLWimV0rBTobxAWvH2xNDmP9kZdVM1lc6bt3lqO7kJ6CX1g5iJPu4EWydmXzO6z4BfPGseXtKkYnkbsBY6kWyofRVqap5BgMSx1lOOeL-lWE9oJrhsuPFZsWXYF8JvazONXN4OcsaYDo8ACFv5w19kZoXpVgJolIeS1SZROFoMnxyUNnEPsuCIKqqdJjeSp3FcI1yA7viIufAeY6UgWUobk_ZoYsPefnLsfQpPmOtz5Oy8apfZIbE4JMYwdQmx8VWHX-0xlOi70eq7h1K29xA3flqxqnoYyCPVb2m7KkZQOxbpAWQSvNgDXT7k8QWS1GqJLqrpePcDFMbhPZB7OUb57CFbRoIVYXubrSiGpw4M0UKQiGwrnzecerKfeChxlqtf092gA8yccI2AAHHpPOSQBa9cmZ4yBWbc5YesYMTyf_faVqODZ6ZC5NLIXJ0xzXRSDWsD4JYonneoy7LnEkApJzl0wY2XbnfQ=w1278-h959-s-no?authuser=0)
 and i dont really know where this was but it was cool (somewhere near canal st i think?)
+
+![github repo](https://github.com/Purdue-CS193/homework-0-kayzao)
+
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
